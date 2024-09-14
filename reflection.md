@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I want to say it was easy for me, but I had to use gpt a few times. I had this issue where it was printing like pack: 1 and packs: 12, honestly I think I was creating the issue through bad code. Currently I am readjusting to the coding thought process as I had injured my hand in march and wasn't able to effectively use a keyboard until late July. This is reflecting more on the fact that I feel I need to get back into the swing of things to make effective code swiftly, for now I have GPT as a very helpful crutch.
